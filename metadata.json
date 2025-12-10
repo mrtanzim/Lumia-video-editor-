@@ -1,0 +1,7 @@
+{
+  "name": "Lumina AI Video Editor",
+  "description": "A professional-grade, browser-based video editor featuring AI-powered auto-editing, smart subtitles, and real-time preview.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
